@@ -1,0 +1,1 @@
+![Float alpha background](https://github.com/Float-Capital/brand-kit/raw/main/Backgrounds/float-alpha-background.png)
